@@ -343,14 +343,6 @@ section {
   justify-content: space-around;
 }
 
-article {
-  display: flex;
-  width: 10rem;
-  font-size: 0.75rem;
-  justify-content: space-around;
-  gap: 0.5rem;
-}
-
 article .icon {
   cursor: default;
 }
